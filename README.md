@@ -1,1 +1,1 @@
-# gbone
+# gb-one
